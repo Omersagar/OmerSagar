@@ -1,121 +1,57 @@
-👋 Hello, I'm Omer Sagar
-<div align="center">
-AI/ML Developer | Full-Stack Engineer | Python Enthusiast
+# 👋 Hi, I'm Omer Sagar
 
-https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white
-https://img.shields.io/badge/%F0%9F%93%A7_Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white
-https://img.shields.io/badge/%F0%9F%92%BC_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white
+I'm a self-driven **Full-Stack Developer** with a passion for building clean, scalable, and performant web applications — from sleek frontends to powerful backends.
 
-</div>
-🚀 About Me
-python
-class Developer:
-    def __init__(self):
-        self.name = "Omer Sagar"
-        self.role = "Full-Stack Developer & AI Enthusiast"
-        self.location = "Pakistan"
-        self.passion = "Building intelligent solutions"
-        
-    def skills(self):
-        return {
-            'languages': ['Python', 'JavaScript', 'SQL'],
-            'frameworks': ['Flask', 'Node.js', 'React'],
-            'ai_ml': ['TensorFlow', 'OpenAI', 'Computer Vision'],
-            'tools': ['Git', 'Docker', 'MongoDB', 'Linux']
-        }
-    
-    def current_focus(self):
-        return "Exploring Large Language Models and Deep Learning"
-🛠 Tech Stack
-Programming Languages
-https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
-https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white
-https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
+---
 
-Frameworks & Libraries
-https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white
-https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
-https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black
-https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white
+## 🧰 Tech Stack
 
-Databases & Cloud
-https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white
-https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white
-https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white
-https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white
+### Frontend
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css)
 
-💻 Featured Projects
-🤖 AI Discord Moderation Bot
-Advanced moderation bot with AI-powered features and automated management
+### Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase)
 
-python
-# Features include:
-- Smart auto-moderation
-- User behavior analysis
-- Custom command system
-- Real-time logging
-Tech: Python Discord.py AI SQLite
+### Tools & Platforms
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel)
+![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify)
 
-https://img.shields.io/badge/%F0%9F%94%97_View_Project-181717?style=for-the-badge&logo=github&logoColor=white
+---
 
-🌐 Full-Stack Web Application
-Modern web application with responsive design and robust backend
+## 📌 Highlight Projects
 
-text
-🚀 Features:
-• RESTful API Architecture
-• User Authentication System
-• Real-time Data Processing
-• Responsive UI/UX Design
-Tech: Flask JavaScript MongoDB HTML/CSS
+- 🔧 [Univ Saas](https://github.com/Omersagar/your-blog-repo): Full-stack blog app with auth and CRUD  
+- 🔧 [Kalaam](https://github.com/Omersagar/Kalaam): Book review app built in React  
+- 🔧 [Realtime Chat App](#): Coming soon with Socket.io + MongoDB
 
-https://img.shields.io/badge/%F0%9F%94%97_View_Project-181717?style=for-the-badge&logo=github&logoColor=white
+---
 
-⚡ Automation Toolkit
-Collection of efficient automation scripts for various tasks
+## 📊 GitHub Stats
 
-text
-📦 Includes:
-• Web scraping utilities
-• File management automation
-• Data processing scripts
-• System automation tools
-Tech: Python Selenium BeautifulSoup OS Automation
+![Omer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Omersagar&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Omersagar&layout=compact&theme=radical)
 
-https://img.shields.io/badge/%F0%9F%94%97_View_Project-181717?style=for-the-badge&logo=github&logoColor=white
+---
 
-📊 GitHub Analytics
-<div align="center">
-https://github-readme-stats.vercel.app/api?username=Omersagar&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true
+## 🧠 Currently Exploring
+- 🧩 TypeScript & Next.js
+- 🚀 Deployment on Vercel & Render
+- 🌐 APIs and real-world architecture
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=Omersagar&layout=compact&theme=radical&bg_color=0d1117&hide_border=true
+---
 
-https://streak-stats.demolab.com/?user=Omersagar&theme=radical&background=0d1117&hide_border=true
+## 📬 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
-</div>
-🎯 Currently Working On
-🔭 Exploring Advanced AI Models
-
-🌱 Learning System Design & Architecture
-
-👯 Looking to collaborate on Open Source AI Projects
-
-🤔 Improving Cloud Deployment Skills
-
-📫 Let's Connect
-<div align="center">
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
-https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white
-
-</div>
-<div align="center">
-💡 "Code is like humor. When you have to explain it, it's bad."
-⭐ Feel free to explore my repositories and don't forget to star if you find something interesting!
-
-https://komarev.com/ghpvc/?username=Omersagar&color=blueviolet&style=flat-square
-
-</div>
-Last updated: {{CURRENT_DATE}}
+---
